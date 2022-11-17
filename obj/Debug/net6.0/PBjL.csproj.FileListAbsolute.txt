@@ -1,0 +1,15 @@
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\bin\Debug\net6.0\PBjL.exe
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\bin\Debug\net6.0\PBjL.deps.json
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\bin\Debug\net6.0\PBjL.runtimeconfig.json
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\bin\Debug\net6.0\PBjL.dll
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\bin\Debug\net6.0\PBjL.pdb
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.csproj.AssemblyReference.cache
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.AssemblyInfoInputs.cache
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.AssemblyInfo.cs
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.dll
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\refint\PBjL.dll
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.pdb
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\PBjL.genruntimeconfig.cache
+C:\Users\leonardo.falango\Desktop\Nova pasta\PBjL\obj\Debug\net6.0\ref\PBjL.dll
