@@ -1,7 +1,10 @@
 public class Calculador
 {
+    public double a { get; private set; }
+    public double b { get; private set; }
+    public int n { get; private set; }
     public double function(double x) => 2 * Math.Sin(x) + Math.Cos(x) / 3 + 3;
-    public double calc(double a, double b, int n)
+    public void calc()
     {
         if (n <= 0)
             throw new Exception();
@@ -22,7 +25,12 @@ public class Calculador
         }
 
         Console.WriteLine($"Resultado da integral: {areaTotal}");
-        return areaTotal;
     }
     
+    public Calculador(double a, double b, int n)
+    {
+        this.a = a;
+        this.b = b;
+        this.n = n;
+    }
 }
